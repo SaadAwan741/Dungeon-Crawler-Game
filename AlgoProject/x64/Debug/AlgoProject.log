@@ -1,0 +1,6 @@
+﻿  Main.cpp
+C:\Users\User\Desktop\AlgoProject\Main.cpp(311,62): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\User\Desktop\AlgoProject\Main.cpp(311,29): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  AlgoProject.vcxproj -> C:\Users\User\Desktop\AlgoProject\x64\Debug\AlgoProject.exe
+  'pwsh.exe' is not recognized as an internal or external command,
+  operable program or batch file.
